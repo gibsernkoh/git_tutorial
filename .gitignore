@@ -1,4 +1,3 @@
-Git.docx
-~$Git.docx
+*.docx
 node_modules/
 /dir2
